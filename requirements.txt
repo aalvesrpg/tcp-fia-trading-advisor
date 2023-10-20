@@ -6,6 +6,9 @@ yfinance == 0.2.30
 investpy == 1.0.8
 Nasdaq-Data-Link == 1.0.4
 
+# Data Viz
+plotly == 5.17.0
+
 # Enviroment
 python-dotenv == 1.0.0
 
